@@ -26,9 +26,10 @@ Services: To Manage TaskLists
 Mappers - Auto Mapper to map dtos and data models
 
 ****Pre Requistes:****
-Dot Framework 8
-EntityFramework Core
-Visual STUDIO 2022
+
+Dot Framework 8,
+EntityFramework Core,
+Visual STUDIO 2022,
 Sql Server Express
 
 ==================================**How to Run Api**========================================
