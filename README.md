@@ -56,3 +56,8 @@ database-update
 Api will be up and running on Port
 http://localhost:5115/swagger/index.html
  
+
+Unit Tests Can be run from Explorer:
+
+![image](https://github.com/user-attachments/assets/e460b186-b1ae-4bc5-afaa-bd7871391b37)
+
