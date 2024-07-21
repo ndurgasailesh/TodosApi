@@ -50,6 +50,7 @@ After build application Succeded.
 **Run below in Tools Nuget Package Manager Console
 
 Add-Migration "init"
+
 database-update
 
 Api will be up and running on Port
