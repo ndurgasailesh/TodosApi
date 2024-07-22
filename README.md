@@ -19,7 +19,7 @@ Api Project Structure:
 * MiddleWare:
 - Global error handling Middleware
 
-* Repository : To Manage Data and tasklists
+* Repository : To Manage Data and tasklists (Pattern :Repository Pattern for object relational Mapping to Sql)
 
 * Services: To Manage TaskLists
 
