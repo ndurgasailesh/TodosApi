@@ -53,6 +53,10 @@ Api Project Structure:
 
 - database-update
 
+  Asp.net Identty tables aand ToDo table wil be created in Sql Server
+
+  Two roles [Admin,User] will be added as part of migration
+
 Api will be up and running on Port
 http://localhost:5115/swagger/index.html
  
