@@ -32,7 +32,12 @@ Api Project Structure:
 * Visual STUDIO 2022,
 * Sql Server Express
 
-==================================**How to Run Api**========================================
+* Download Source code
+
+  -run below command in git bash in your preferred location
+  -  git clone https://github.com/ndurgasailesh/TodosApi.git
+
+**How to Run Api**
 
  The WebAPi will run on port: 5115
 
